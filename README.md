@@ -1,22 +1,22 @@
-# Available .SPOT One-Word Domains (5,622,028)
+# Available .SPOT One-Word Domains (9,860)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C860%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C028%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C860%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .spot one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .spot one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,860-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,028 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,860 rows · **Live catalog:** 5,622,028 domains
+**Public extract:** 9,860 rows · **Live catalog:** 9,860 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/spot`  
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
 | converse.spot   | available | $18.99    | $39.99        | 64             | 73     | 8      | name.com              |
-| robotic.spot    | resell    | —         | —             | 72             | 32     | 7      | Dynadot, LLC          |
+| neat.spot       | resell    | —         | —             | 64             | 31     | 4      | 101domain GRS Limited |
 | easy.spot       | premium   | $1,250    | $1,250        | 128            | 68     | 4      | name.com              |
 | seventeen.spot  | available | $18.99    | $39.99        | 84             | 62     | 9      | name.com              |
-| neat.spot       | resell    | —         | —             | 64             | 31     | 4      | 101domain GRS Limited |
+| robotic.spot    | resell    | —         | —             | 72             | 30     | 7      | Dynadot, LLC          |
 | nationwide.spot | premium   | $125      | $125          | 76             | 66     | 10     | name.com              |
-| agile.spot      | available | $18.99    | $39.99        | 92             | 42     | 5      | name.com              |
+| agile.spot      | available | $18.99    | $39.99        | 92             | 41     | 5      | name.com              |
 | power.spot      | premium   | $650      | $650          | 98             | 62     | 5      | namecheap             |
 | unify.spot      | available | $18.99    | $39.99        | 72             | 38     | 5      | name.com              |
 | free.spot       | premium   | $1,250    | $1,250        | 88             | 59     | 4      | name.com              |
 | nimble.spot     | available | $18.99    | $39.99        | 94             | 33     | 6      | name.com              |
 | ace.spot        | premium   | $3,125    | $3,125        | 88             | 57     | 3      | name.com              |
-| ethereal.spot   | available | $18.99    | $39.99        | 88             | 32     | 8      | name.com              |
-| data.spot       | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap             |
+| ethereal.spot   | available | $18.99    | $39.99        | 88             | 31     | 8      | name.com              |
+| live.spot       | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com              |
 | aesthetic.spot  | available | $18.99    | $39.99        | 88             | 31     | 9      | name.com              |
-| live.spot       | premium   | $1,250    | $1,250        | 108            | 55     | 4      | name.com              |
+| data.spot       | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap             |
 | cipher.spot     | available | $28.98    | —             | 86             | 29     | 6      | namecheap             |
 | good.spot       | premium   | $1,250    | $1,250        | 82             | 55     | 4      | name.com              |
-| adept.spot      | available | $18.99    | $39.99        | 92             | 27     | 5      | name.com              |
-| zero.spot       | premium   | $1,250    | $1,250        | 112            | 53     | 4      | name.com              |
+| curative.spot   | available | $18.99    | $39.99        | 92             | 27     | 8      | name.com              |
+| alpha.spot      | premium   | $625      | $625          | 90             | 54     | 5      | name.com              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,860-row public sample | 5,622,028 live domains                           |
+| 9,860-row public sample | 9,860 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
