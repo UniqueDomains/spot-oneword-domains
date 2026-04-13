@@ -73,9 +73,9 @@ print(df.head())
 | agile.spot      | available | $18.99    | $39.99        | 92             | 41     | 5      | name.com              |
 | power.spot      | premium   | $650      | $650          | 98             | 62     | 5      | namecheap             |
 | unify.spot      | available | $18.99    | $39.99        | 72             | 38     | 5      | name.com              |
-| free.spot       | premium   | $1,250    | $1,250        | 88             | 59     | 4      | name.com              |
-| nimble.spot     | available | $18.99    | $39.99        | 94             | 33     | 6      | name.com              |
 | ace.spot        | premium   | $3,125    | $3,125        | 88             | 57     | 3      | name.com              |
+| nimble.spot     | available | $18.99    | $39.99        | 94             | 33     | 6      | name.com              |
+| free.spot       | premium   | $1,250    | $1,250        | 88             | 57     | 4      | name.com              |
 | ethereal.spot   | available | $18.99    | $39.99        | 88             | 31     | 8      | name.com              |
 | live.spot       | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com              |
 | aesthetic.spot  | available | $18.99    | $39.99        | 88             | 31     | 9      | name.com              |
