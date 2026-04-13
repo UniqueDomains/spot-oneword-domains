@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .spot one-word domains from Unique
 
 **Public extract:** 9,860 rows · **Live catalog:** 9,860 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/spot`  
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | cipher.spot     | available | $28.98    | —             | 86             | 29     | 6      | namecheap             |
 | good.spot       | premium   | $1,250    | $1,250        | 82             | 55     | 4      | name.com              |
 | curative.spot   | available | $18.99    | $39.99        | 92             | 27     | 8      | name.com              |
-| alpha.spot      | premium   | $625      | $625          | 90             | 54     | 5      | name.com              |
+| zero.spot       | premium   | $1,250    | $1,250        | 112            | 53     | 4      | name.com              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
