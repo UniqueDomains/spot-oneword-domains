@@ -1,10 +1,10 @@
-# Available .SPOT One-Word Domains (12,845)
+# Available .SPOT One-Word Domains (12,847)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C845%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C847%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .spot one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,845 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,847 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,845 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,847 domains · **Median ask:** $156.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/spot`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| RedSox.spot        | available | $31.98    | —             | 72             | 60     | 7      | namecheap |
-| Books.spot         | premium   | $7,000    | $7,000        | 52             | 49     | 5      | namecheap |
-| keepthechange.spot | available | $31.98    | —             | 46             | 59     | 15     | namecheap |
-| robots.spot        | premium   | $116      | $116          | 62             | 47     | 6      | namesilo  |
-| whynot.spot        | available | $31.98    | —             | 74             | 39     | 7      | namecheap |
-| skills.spot        | premium   | $125      | —             | 58             | 47     | 6      | name.com  |
-| commonground.spot  | available | $31.98    | —             | 74             | 28     | 13     | namecheap |
-| coins.spot         | premium   | $625      | —             | 56             | 41     | 5      | name.com  |
-| echoes.spot        | available | $25.99    | $25.99        | 56             | 24     | 6      | namesilo  |
-| shortcuts.spot     | premium   | $125      | —             | 48             | 41     | 10     | name.com  |
-| inhouse.spot       | available | $31.98    | —             | 70             | 23     | 8      | namecheap |
-| lets.spot          | premium   | $1,250    | —             | 77             | 39     | 4      | name.com  |
-| CapeCod.spot       | available | $31.98    | —             | 78             | 22     | 8      | namecheap |
-| tickets.spot       | premium   | $625      | —             | 64             | 34     | 7      | name.com  |
-| webshop.spot       | available | $31.98    | —             | 76             | 22     | 8      | namecheap |
-| payments.spot      | premium   | $125      | —             | 58             | 33     | 8      | name.com  |
-| stadia.spot        | available | $31.98    | —             | 66             | 22     | 6      | namecheap |
-| teams.spot         | premium   | $625      | —             | 62             | 32     | 5      | name.com  |
-| bubbles.spot       | available | $31.98    | —             | 72             | 21     | 7      | namecheap |
-| partners.spot      | premium   | $625      | —             | 61             | 32     | 8      | name.com  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| RedSox.spot        | available | $31.98    | —             | 72             | 60     | 7      | namecheap   |
+| nerd.spot          | resell    | —         | —             | 76             | 43     | 4      | Porkbun LLC |
+| Books.spot         | premium   | $7,000    | $7,000        | 52             | 49     | 5      | namecheap   |
+| keepthechange.spot | available | $31.98    | —             | 46             | 59     | 15     | namecheap   |
+| robots.spot        | premium   | $116      | $116          | 62             | 47     | 6      | namesilo    |
+| whynot.spot        | available | $31.98    | —             | 74             | 39     | 7      | namecheap   |
+| skills.spot        | premium   | $125      | —             | 58             | 47     | 6      | name.com    |
+| commonground.spot  | available | $31.98    | —             | 74             | 28     | 13     | namecheap   |
+| coins.spot         | premium   | $625      | —             | 56             | 41     | 5      | name.com    |
+| echoes.spot        | available | $25.99    | $25.99        | 56             | 24     | 6      | namesilo    |
+| shortcuts.spot     | premium   | $125      | —             | 48             | 41     | 10     | name.com    |
+| inhouse.spot       | available | $31.98    | —             | 70             | 23     | 8      | namecheap   |
+| lets.spot          | premium   | $1,250    | —             | 77             | 39     | 4      | name.com    |
+| CapeCod.spot       | available | $31.98    | —             | 78             | 22     | 8      | namecheap   |
+| tickets.spot       | premium   | $625      | —             | 64             | 34     | 7      | name.com    |
+| webshop.spot       | available | $31.98    | —             | 76             | 22     | 8      | namecheap   |
+| payments.spot      | premium   | $125      | —             | 58             | 33     | 8      | name.com    |
+| stadia.spot        | available | $31.98    | —             | 66             | 22     | 6      | namecheap   |
+| teams.spot         | premium   | $625      | —             | 62             | 32     | 5      | name.com    |
+| bubbles.spot       | available | $31.98    | —             | 72             | 21     | 7      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,845 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,847 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .spot domains. The range includes short first-name and dictionary-word options such as sam.spot, bounce.spot, recover.spot, and produce.spot, alongside longer, more specific terms like detective.spot and pharmaceutical.spot. For founders, the strongest choices are usually the words that are easy to say, easy to spell, and immediately legible in a brand context. For investors, the key question is whether the word has broad commercial use at a low enough ask to leave room for a deal. With a median ask of 156.7, price discipline matters less than word quality and category fit.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer clear dictionary words over obscure or awkward terms
+- Shorter names like sam.spot are easier to recall and repeat
+- Check if the word fits location, discovery, or listing use cases
+- Be cautious with highly specific or regulated terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

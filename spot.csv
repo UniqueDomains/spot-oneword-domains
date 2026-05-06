@@ -471,6 +471,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 26d73a85-6a22-4a5f-accd-f52cbcafeac0,Ihaveaheadache.spot,available,31.98,,50,1,17,namecheap,,
 26da1c91-2fd6-46c7-8d38-c4167b059a8d,indoor.spot,premium,125,,72,15,6,name.com,,
 26fdbfa8-7459-4a34-80d6-b7f81e9cd516,makeof.spot,available,31.98,,76,1,7,namecheap,,
+2724647f-554a-4bf8-bdc4-c6cd6883ad2c,nerd.spot,resell,,,76,43,4,Porkbun LLC,19/05/2025 13:00,19/05/2027 13:00
 274af142-186f-46de-992e-93cddefc1fad,failures.spot,premium,125,,46,5,8,name.com,,
 27925f14-8252-435b-ad76-baa519f7c0cd,geese.spot,available,31.98,,53,10,5,namecheap,,
 27972469-a6e1-4c97-909d-18319fbd5724,organizing.spot,premium,125,,76,12,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 555bd04d-36d3-440a-b805-ec26891740e5,coupons.spot,premium,116,116,52,24,7,namesilo,,
 559ddee5-8385-4985-bc54-bf53efaaa588,electricians.spot,available,25.99,25.99,56,10,12,namesilo,,
 55a73e1c-7307-4d4f-8b25-03596d32225c,OpiumWar.spot,available,31.98,,52,1,9,namecheap,,
-55b75783-3e49-4bb2-a97a-6ce9cd82392f,tunas.spot,available,25.99,25.99,59,6,5,namesilo,,
