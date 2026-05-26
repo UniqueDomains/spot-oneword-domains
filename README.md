@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .spot one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,847 domains · **Median ask:** $156.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/spot`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | Books.spot         | premium   | $7,000    | $7,000        | 52             | 49     | 5      | namecheap   |
 | keepthechange.spot | available | $31.98    | —             | 46             | 59     | 15     | namecheap   |
 | robots.spot        | premium   | $116      | $116          | 62             | 47     | 6      | namesilo    |
-| whynot.spot        | available | $31.98    | —             | 74             | 39     | 7      | namecheap   |
+| whynot.spot        | available | $31.98    | —             | 74             | 44     | 7      | namecheap   |
 | skills.spot        | premium   | $125      | —             | 58             | 47     | 6      | name.com    |
 | commonground.spot  | available | $31.98    | —             | 74             | 28     | 13     | namecheap   |
 | coins.spot         | premium   | $625      | —             | 56             | 41     | 5      | name.com    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
