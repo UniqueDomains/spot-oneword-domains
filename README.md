@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .spot one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,847 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,847 domains · **Median ask:** $156.70 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,847 domains · **Median ask:** $258.50 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/spot`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/spot`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SPOT one-word domain 
 
 ### Files
 
-- `spot.csv` — public CSV extract (1,000 rows)
-- `spot.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `spot.csv`, public CSV extract (1,000 rows)
+- `spot.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| RedSox.spot        | available | $31.98    | —             | 72             | 60     | 7      | namecheap   |
-| nerd.spot          | resell    | —         | —             | 76             | 43     | 4      | Porkbun LLC |
-| Books.spot         | premium   | $7,000    | $7,000        | 52             | 49     | 5      | namecheap   |
-| keepthechange.spot | available | $31.98    | —             | 46             | 59     | 15     | namecheap   |
-| robots.spot        | premium   | $116      | $116          | 62             | 47     | 6      | namesilo    |
-| whynot.spot        | available | $31.98    | —             | 74             | 44     | 7      | namecheap   |
-| skills.spot        | premium   | $125      | —             | 58             | 47     | 6      | name.com    |
-| commonground.spot  | available | $31.98    | —             | 74             | 28     | 13     | namecheap   |
-| coins.spot         | premium   | $625      | —             | 56             | 41     | 5      | name.com    |
-| echoes.spot        | available | $25.99    | $25.99        | 56             | 24     | 6      | namesilo    |
-| shortcuts.spot     | premium   | $125      | —             | 48             | 41     | 10     | name.com    |
-| inhouse.spot       | available | $31.98    | —             | 70             | 23     | 8      | namecheap   |
-| lets.spot          | premium   | $1,250    | —             | 77             | 39     | 4      | name.com    |
-| CapeCod.spot       | available | $31.98    | —             | 78             | 22     | 8      | namecheap   |
-| tickets.spot       | premium   | $625      | —             | 64             | 34     | 7      | name.com    |
-| webshop.spot       | available | $31.98    | —             | 76             | 22     | 8      | namecheap   |
-| payments.spot      | premium   | $125      | —             | 58             | 33     | 8      | name.com    |
-| stadia.spot        | available | $31.98    | —             | 66             | 22     | 6      | namecheap   |
-| teams.spot         | premium   | $625      | —             | 62             | 32     | 5      | name.com    |
-| bubbles.spot       | available | $31.98    | —             | 72             | 21     | 7      | namecheap   |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ahuh.spot | available | $25.99    | $25.99        | high           | low    | 4      | namesilo  |
+| abc.spot  | premium   | $3,250    | $3,250        | high           | medium | 3      | namecheap |
+| atop.spot | available | $25.99    | $25.99        | medium         | low    | 4      | namesilo  |
+| aid.spot  | premium   | $3,125    | —             | medium         | low    | 3      | name.com  |
+| chop.spot | available | $25.99    | $25.99        | medium         | low    | 4      | namesilo  |
+| ala.spot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| clue.spot | available | $31.98    | —             | high           | low    | 4      | namecheap |
+| axe.spot  | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo  |
+| jock.spot | available | $25.99    | $25.99        | high           | low    | 4      | namesilo  |
+| BJP.spot  | premium   | $1,250    | —             | medium         | low    | 3      | name.com  |
+| Jody.spot | available | $31.98    | —             | high           | low    | 4      | namecheap |
+| CNN.spot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| lust.spot | available | $25.99    | $25.99        | high           | low    | 4      | namesilo  |
+| dew.spot  | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo  |
+| pity.spot | available | $18.99    | $39.99        | high           | low    | 4      | name.com  |
+| feb.spot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| pony.spot | available | $25.99    | $25.99        | high           | low    | 4      | namesilo  |
+| fee.spot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| rake.spot | available | $25.99    | $25.99        | medium         | low    | 4      | namesilo  |
+| gal.spot  | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .spot domains. The range includes short first-name and dictionary-word options such as sam.spot, bounce.spot, recover.spot, and produce.spot, alongside longer, more specific terms like detective.spot and pharmaceutical.spot. For founders, the strongest choices are usually the words that are easy to say, easy to spell, and immediately legible in a brand context. For investors, the key question is whether the word has broad commercial use at a low enough ask to leave room for a deal. With a median ask of 156.7, price discipline matters less than word quality and category fit.
+This selection contains 12,847 one-word .spot domain names covering tech, lifestyle, food, and charity themes — from hightech.spot to comicrelief.spot. The median ask sits near $258, with naming styles ranging from short single words to recognizable compound phrases. Compare spelling simplicity, length, and thematic fit before deciding which of these .spot names best suits a brand or an early TLD position.
 
-- Prefer clear dictionary words over obscure or awkward terms
-- Shorter names like sam.spot are easier to recall and repeat
-- Check if the word fits location, discovery, or listing use cases
-- Be cautious with highly specific or regulated terms
+- 12,847 one-word .spot domain names, updated daily
+- Median ask near $258 across this .spot selection
+- Mix of brandable single words and compound phrases
+- Themes span tech, lifestyle, food, and charity names
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
