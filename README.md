@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .spot one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,994 domains · **Median ask:** $160.45 · **High-demand under $2,500:** 69
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/spot`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| okay.spot      | premium   | $1,250    | $1,250        | high           | low    | 4      | name.com  |
-| feel.spot      | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo  |
-| one.spot       | premium   | $3,125    | $3,125        | high           | medium | 3      | name.com  |
-| clean.spot     | premium   | $625      | —             | high           | low    | 5      | name.com  |
-| action.spot    | premium   | $125      | —             | high           | medium | 6      | name.com  |
-| something.spot | premium   | $125      | —             | high           | low    | 9      | name.com  |
-| ahuh.spot      | available | $25.99    | $25.99        | high           | low    | 4      | namesilo  |
-| abc.spot       | premium   | $3,250    | $3,250        | high           | medium | 3      | namecheap |
-| atop.spot      | available | $25.99    | $25.99        | medium         | low    | 4      | namesilo  |
-| aid.spot       | premium   | $3,125    | —             | medium         | low    | 3      | name.com  |
-| chop.spot      | available | $25.99    | $25.99        | medium         | low    | 4      | namesilo  |
-| ala.spot       | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
-| clue.spot      | available | $31.98    | —             | high           | low    | 4      | namecheap |
-| axe.spot       | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo  |
-| cxxv.spot      | available | $25.98    | $31.98        | low            | low    | 4      | namecheap |
-| bay.spot       | premium   | $3,125    | $3,125        | low            | low    | 3      | name.com  |
-| jock.spot      | available | $25.99    | $25.99        | high           | low    | 4      | namesilo  |
-| BJP.spot       | premium   | $1,250    | —             | medium         | low    | 3      | name.com  |
-| Jody.spot      | available | $31.98    | —             | high           | low    | 4      | namecheap |
-| CNN.spot       | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ahuh.spot | available | $25.99    | $25.99        | high           | low    | 4      | namesilo  |
+| abc.spot  | premium   | $3,250    | $3,250        | high           | medium | 3      | namecheap |
+| atop.spot | available | $25.99    | $25.99        | medium         | low    | 4      | namesilo  |
+| aid.spot  | premium   | $3,125    | —             | medium         | low    | 3      | name.com  |
+| chop.spot | available | $25.99    | $25.99        | medium         | low    | 4      | namesilo  |
+| ala.spot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| clue.spot | available | $31.98    | —             | high           | low    | 4      | namecheap |
+| axe.spot  | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo  |
+| cxxv.spot | available | $25.98    | $31.98        | low            | low    | 4      | namecheap |
+| bay.spot  | premium   | $3,125    | $3,125        | low            | low    | 3      | name.com  |
+| jock.spot | available | $25.99    | $25.99        | high           | low    | 4      | namesilo  |
+| BJP.spot  | premium   | $1,250    | —             | medium         | low    | 3      | name.com  |
+| Jody.spot | available | $31.98    | —             | high           | low    | 4      | namecheap |
+| CNN.spot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| lust.spot | available | $25.99    | $25.99        | high           | low    | 4      | namesilo  |
+| dew.spot  | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo  |
+| lxiv.spot | available | $25.98    | $31.98        | low            | low    | 4      | namecheap |
+| feb.spot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| pity.spot | available | $18.99    | $39.99        | high           | low    | 4      | name.com  |
+| fee.spot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
