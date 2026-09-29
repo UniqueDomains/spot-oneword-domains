@@ -1,10 +1,10 @@
-# Available .SPOT One-Word Domains (25,761)
+# Available .SPOT One-Word Domains (27,679)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C761%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C679%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .spot one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,761 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,679 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,761 domains · **Median ask:** $191.09 · **High-demand under $2,500:** 72
+**Public extract:** 1,000 rows · **Live catalog:** 27,679 domains · **Median ask:** $191.38 · **High-demand under $2,500:** 75
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/spot`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | vacant.spot | resell    | —         | —             | medium         | low    | 6      | Porkbun LLC |
 | arc.spot    | premium   | $3,125    | $3,125        | high           | medium | 3      | name.com    |
 | adhd.spot   | available | $25.99    | $25.99        | high           | medium | 4      | namesilo    |
-| bap.spot    | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
+| bed.spot    | premium   | $2,587.70 | $2,587.70     | high           | low    | 3      | spaceship   |
 | agua.spot   | available | $25.98    | $31.98        | high           | low    | 4      | namecheap   |
-| bed.spot    | premium   | $3,125    | —             | high           | low    | 3      | name.com    |
-| apia.spot   | available | $25.98    | $31.98        | medium         | low    | 4      | namecheap   |
 | cao.spot    | premium   | $1,300    | $1,300        | high           | low    | 3      | namecheap   |
-| aten.spot   | available | $25.98    | $31.98        | medium         | low    | 4      | namecheap   |
+| ansi.spot   | available | $25.99    | $25.99        | medium         | low    | 4      | namesilo    |
 | cub.spot    | premium   | $1,300    | $1,300        | high           | low    | 3      | namecheap   |
-| bede.spot   | available | $25.98    | $31.98        | high           | low    | 4      | namecheap   |
+| apia.spot   | available | $25.98    | $31.98        | medium         | low    | 4      | namecheap   |
 | dug.spot    | premium   | $1,300    | $1,300        | high           | low    | 3      | namecheap   |
+| bede.spot   | available | $25.98    | $31.98        | high           | low    | 4      | namecheap   |
+| fax.spot    | premium   | $3,450    | $3,450        | high           | low    | 3      | namesilo    |
 | bize.spot   | available | $25.99    | $25.99        | medium         | low    | 4      | namesilo    |
 | fis.spot    | premium   | $1,100    | $1,100        | high           | low    | 3      | dynadot     |
-| blob.spot   | available | $25.99    | $25.99        | high           | low    | 4      | namesilo    |
-| gad.spot    | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
 | calf.spot   | available | $25.99    | $25.99        | high           | low    | 4      | namesilo    |
+| gad.spot    | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
+| clxv.spot   | available | $25.98    | $31.98        | medium         | low    | 4      | namecheap   |
 | had.spot    | premium   | $3,125    | —             | high           | low    | 3      | name.com    |
-| choc.spot   | available | $25.99    | $25.99        | high           | low    | 4      | namesilo    |
+| duly.spot   | available | $25.98    | $31.98        | medium         | low    | 4      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,761 live domains                        |
+| 1,000-row public sample | 27,679 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 72 high-demand names under $2,500          |
+| Basic exported fields   | 75 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SPOT One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
